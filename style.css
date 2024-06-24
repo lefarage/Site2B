@@ -11,4 +11,5 @@
 
 .cabecalho-lista-item {
     display: inline-block;
+    justify-content: space-between;
 }
