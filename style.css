@@ -53,12 +53,10 @@
         padding: 24px 0;
     }
     #estudante{
+        text-align: center;
         padding: 24px 0;
     }
-    .estudante-titulo{
-        text-align: center
-        padding: 24px 0;
-    }
+    
     .estudante-imagem {
         width: 120px;
     }
