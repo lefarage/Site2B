@@ -27,6 +27,15 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+.rodape {
+    background-color: black;
+    text-align: center;
+}
+
+.rodape-logo{
+    height: 60px;
+    padding: 12px 0;
+}
 #escola {
     background-image: linear-gradient(#424E61, #16CFF8);
     color: white;
@@ -107,14 +116,4 @@ body {
 .todos-estudantes {
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
-}
-
-.rodape {
-    background-color: black;
-    text-align: center;
-}
-
-.rodape-logo{
-    height: 60px;
-    padding: 12px 0;
 }
