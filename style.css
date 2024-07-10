@@ -68,5 +68,6 @@
         padding: 16px 0;
     }
     .todos-estudantes{
+        display: grid;
         grid-template-columns: 20px 20px 20px 20px 20px;
     }
