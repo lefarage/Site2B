@@ -24,6 +24,9 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.escola-imagem{
+    width: 180px;
+}
 .estudante-imagem{
     width: 120px;
 }
